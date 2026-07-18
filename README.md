@@ -25,25 +25,15 @@ Full Stack Developer | Python | FastAPI | React | Next.js
 - 📫 Reach me: **lalitsharma48240@gmail.com*
 
 ---
+## 📊 GitHub Stats
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=letscode-with-me&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letscode-with-me&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-- Tailwind CSS
-- Python
-- FastAPI
-- MySQL
-- Git & GitHub
+## 🔥 GitHub Streak
 
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/lalit-kumar-sharma-a312l?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Portfolio: Coming Soon
-
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=letscode-with-me&theme=tokyonight&hide_border=true" />
+</p>
