@@ -35,17 +35,17 @@ Full Stack Developer | Python | FastAPI | React | Next.js
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lalit-kumar-sharma-a312l/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/lalit-kumar-sharma-a312l/" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="mailto:lalitsharma48240@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+  <a href="mailto:lalitsharma48240@gmail.com" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 
-<a href="https://github.com/letscode-with-me">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://github.com/letscode-with-me" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ## 🚀 Featured Projects
