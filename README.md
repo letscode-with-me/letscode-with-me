@@ -37,11 +37,11 @@ Full Stack Developer | Python | FastAPI | React | Next.js
 <p align="center">
   <a href="https://www.linkedin.com/in/lalit-kumar-sharma-a312l/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:lalitsharma48240@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/letscode-with-me">
     <img src="https://skillicons.dev/icons?i=github" />
