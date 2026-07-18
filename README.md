@@ -10,11 +10,19 @@ Full Stack Developer | Python | FastAPI | React | Next.js
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;FastAPI+Developer;React+Developer;Next.js+Developer;Always+Learning..." alt="Typing SVG" />
 </p>
+## 🛠️ Tech Stack
 
-### 👨‍💻 About Me
-- 🌱 Currently learning FastAPI & Next.js
-- 💻 Interested in Full Stack Development
-- 🎯 Goal: Become a Software Engineer
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,fastapi,mysql,git,github,vscode,postman" />
+</p>
+## 👨‍💻 About Me
+
+- 🎓 BCA Student
+- 🌱 Currently learning **FastAPI**, **React**, and **Next.js**
+- 💻 Passionate about Full Stack Development
+- 🚀 Building real-world projects to improve my skills
+- 📍 India
+- 📫 Reach me: **lalitsharma48240@gmail.com*
 
 ---
 
