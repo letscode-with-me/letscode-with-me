@@ -10,21 +10,54 @@ Full Stack Developer | Python | FastAPI | React | Next.js
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;FastAPI+Developer;React+Developer;Next.js+Developer;Always+Learning..." alt="Typing SVG" />
 </p>
-## 🛠️ Tech Stack
 
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=letscode-with-me&label=Profile%20Views&color=39D353&style=for-the-badge" />
+</p>
+
+
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,fastapi,mysql,git,github,vscode,postman" />
 </p>
+
 ## 👨‍💻 About Me
 
-- 🎓 BCA Student
-- 🌱 Currently learning **FastAPI**, **React**, and **Next.js**
-- 💻 Passionate about Full Stack Development
-- 🚀 Building real-world projects to improve my skills
-- 📍 India
-- 📫 Reach me: **lalitsharma48240@gmail.com*
+- 🎓 BCA Student (Graduating in August 2026)
+- 💻 Full Stack Developer
+- 🚀 Building scalable web applications using FastAPI, React & Next.js
+- 🌱 Continuously learning System Design and Backend Architecture
+- 🎯 Passionate about solving real-world problems through code
+- 📍 New Delhi, India
+- 📫 Reach me: **lalitsharma48240@gmail.com**
 
----
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/lalit-kumar-sharma-a312l/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:lalitsharma48240@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/letscode-with-me">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Status |
+|---------|------------|--------|
+| 🎓 Student Management API | FastAPI, SQLAlchemy, JWT | 🚧 In Progress |
+| 🌍 GoFly Travel Website | Next.js, Tailwind CSS | 🚧 In Progress |
+| 💼 Personal Portfolio | React, Tailwind CSS | 🚧 In Progress |
+
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -36,4 +69,20 @@ Full Stack Developer | Python | FastAPI | React | Next.js
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=letscode-with-me&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/letscode-with-me/letscode-with-me/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
+
+<p align="center">
+Code • Learn • Build • Repeat 🚀
 </p>
