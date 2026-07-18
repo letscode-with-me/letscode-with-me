@@ -56,10 +56,6 @@ Full Stack Developer | Python | FastAPI | React | Next.js
 | 🌍 GoFly Travel Website | Next.js, Tailwind CSS | 🚧 In Progress |
 | 💼 Personal Portfolio | React, Tailwind CSS | 🚧 In Progress |
 
-
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
