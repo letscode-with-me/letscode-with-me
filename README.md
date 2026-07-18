@@ -1,7 +1,6 @@
 <p align="center">
 <img width="1983" height="793" alt="ChatGPT Image Jul 18, 2026 at 04_17_57 PM" src="https://github.com/user-attachments/assets/de2f06c3-31f7-483d-8817-df3fba8cf12f" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Lalit Kumar Sharma</h1>
 
 <h3 align="center">
